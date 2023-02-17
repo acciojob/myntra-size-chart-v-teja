@@ -1,2 +1,6 @@
-
+th, td{
+	padding:20px;
+	border:1px;
+	background-color:blue;
+}
 /* Your CSS Code here. */
